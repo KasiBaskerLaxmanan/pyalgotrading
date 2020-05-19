@@ -1,0 +1,5 @@
+## Please list additional packages with version numbers
+yfinance==0.1.43
+quandl==3.4.8
+edgar==1.0.0
+pandas_datareader==0.7.0
